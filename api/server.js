@@ -56,4 +56,4 @@ app.put('/todo/update/:id', async (req, res) => {
 	res.json(todo);
 });
 
-app.listen(3001);
+app.listen(3000);
